@@ -9,4 +9,6 @@ Here’s some of the ridiculous soundbites you should watch out for. Trump, fema
 
 We’d be in for perhaps the most explosive presidential debate in the history of TV and the nation, and debates, period.
 
-<a href=http://hackishword.com/please-dont-show-hillary-this-post-6-things-a-female-donald-trump-would-say-to-win-a-debate-against-trump-2016/">The Rest of the Debate</a>
+[Trump debates](http://hackishword.com/please-dont-show-hillary-this-post-6-things-a-female-donald-trump-would-say-to-win-a-debate-against-trump-2016) The Rest of the Debate
+
+This is an [example link](http://example.com/).
