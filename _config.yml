@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tranc99.github.io
+title: HackishWord Blog
+email: tmutunhire@gmail.com
+author: Tomahawk
+description: My thoughts on technology, entrepreneurship and the future of marketing.
+paginate: 3
+google_analytics: 
